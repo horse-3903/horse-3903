@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and Avid Programmer
 ---------------------------
 
-* 🌍  I'm based in Singapore
+* 🌍  I'm based in Singapore!
 * ✉️  You can contact me at [horse3903410@gmail.com](mailto:horse3903410@gmail.com)
 * 🚀  I'm currently working on [2D Breakout](http://github.com/horse-3903/2d-breakout)
 * 🧠  I'm learning C++ Windows API
