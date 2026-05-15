@@ -1,138 +1,127 @@
-<!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I’m+Rafael+Chong;Full+Stack+Developer;ML+%26+Computer+Vision+Enthusiast;Based+in+Singapore+🇸🇬" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- About Section -->
-## 🚀 About Me
-
-I’m a passionate developer with expertise in **machine learning**, **computer vision**, and **full-stack development**. I build intelligent systems that solve real-world problems, from drone obstacle detection to music metadata automation. Currently exploring **Flutter** for cross-platform mobile development.
-
-- 🔬 Specialize in: **Python, ML/CV, C++, JavaScript/TypeScript**
-- 🎯 Currently working on: Advanced computer vision and optimization projects
-- 📚 Learning: **Flutter App Framework**
-- 🌏 Location: **Singapore**
-- 📧 Contact: **horse3903410@gmail.com**
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-### **🤖 Adaptive CV ROI**
-[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/adaptive-cv-roi)
-
-Fast YOLOv11 detection model training & deployment for tracking regions of interest in image processing
-
----
-
-### **🚁 NTU UAV Research**
-[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/NTU-UAV-Research)
-
-Deep learning-based obstacle detection and avoidance system for DJI Tello drones using depth estimation
-
----
-
-### **🎵 YTMusicAPI**
-[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/ytmusicapi)
-
-YouTube Music metadata extraction and MP3 file tagging automation
-
----
-
-### **📅 Timetable Generator**
-[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/timetable-generator)
-
-Intelligent timetable scraper with Google Calendar integration and smart scheduling
-
----
-
-### **⚡ Fastest Descent Simulation**
-[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/fastest-descent-simulation)
-
-C++ implementation of the fastest descent problem using evolutionary algorithms and optimization techniques
-
----
-
-### **🧠 ML Non-Convex Optimisation**
-[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/ml-non-convex-optimisation)
-
-Research project on approximating and optimizing non-convex functions using ML and optimization algorithms
-
+  
+  <!-- Animated Header -->
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35">
+    Rafael Chong
+  </h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Computer+Vision;Building+Intelligent+Systems;Optimizing+Complex+Problems;Making+Drones+Smarter+🚁" alt="Typing SVG" />
+  
+  **From Singapore 🇸🇬 | Training models, solving algorithms, breaking constraints**
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:horse3903410@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/horse-3903)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+  
 </div>
 
 ---
 
-## 💻 Tech Stack
+## 🎯 What I Do
+
+I transform **raw data into intelligent decisions** through machine learning and computer vision. My projects span from autonomous drone navigation systems to optimization algorithms that find the fastest descent paths. I’m passionate about:
+
+- 🧠 **Deep Learning**: Building and optimizing neural networks for real-world applications
+- 👁️ **Computer Vision**: Teaching machines to see and understand visual data
+- ⚡ **Optimization**: Solving complex mathematical problems with elegant algorithms
+- 🔌 **Full-Stack Development**: From backend APIs to intuitive frontends
+- 🚀 **Production Systems**: Deploying ML models at scale
+
+---
+
+## 🏆 Portfolio Highlights
+
+| Project | Tech | Impact |
+|---------|------|--------|
+| **🚁 NTU UAV Research** | Python • Deep Learning • OpenCV | Real-time obstacle detection for autonomous drones using depth estimation |
+| **🤖 Adaptive CV ROI** | Python • YOLOv11 • PyTorch | Lightning-fast object detection model with automated training pipeline |
+| **🧮 Fastest Descent Simulation** | C++ • Evolutionary Algorithms | Optimized path-finding using genetic algorithms and calculus |
+| **🎵 YTMusicAPI** | JavaScript • Web Scraping | Automated metadata extraction for 1000s of music files |
+| **📅 Timetable Generator** | Python • Web APIs • Google Calendar | Intelligent scheduling system with calendar integration |
+| **🧠 ML Non-Convex Optimization** | Python • TensorFlow • Research | Novel approaches to optimizing non-convex functions |
+
+---
+
+## 💡 Technical Toolkit
+
+```python
+# Languages I speak fluently
+languages = {
+    "primary": ["Python", "C++", "JavaScript/TypeScript"],
+    "secondary": ["C#", "HTML/CSS"],
+    "scripting": ["Bash", "PowerShell"]
+}
+
+# ML & AI Arsenal
+ml_stack = {
+    "frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
+    "computer_vision": ["OpenCV", "YOLOv11", "depth estimation"],
+    "data_tools": ["Pandas", "NumPy", "Jupyter"]
+}
+
+# Web & Infrastructure
+web_tech = {
+    "backend": ["Node.js", "Django", "Flask"],
+    "frontend": ["React", "Bootstrap"],
+    "cloud": ["AWS", "Google Cloud", "Firebase"],
+    "databases": ["SQLite", "PostgreSQL"]
+}
+
+# New Horizons
+exploring = ["Flutter", "Mobile Development", "Advanced optimization"]
+```
+
+---
+
+## 📈 By The Numbers
 
 <div align="center">
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horse-3903&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117)](https://github.com/horse-3903)
 
-**ML & Data Science:**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=horse-3903&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/horse-3903)
 
-**Computer Vision:**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Web & Mobile:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Cloud & Tools:**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=horse-3903&theme=github-dark-blue&hide_border=true&background=0D1117)](https://github.com/horse-3903)
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Currently Building...
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horse-3903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/horse-3903)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=horse-3903&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/horse-3903)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=horse-3903&theme=tokyonight&hide_border=true)](https://github.com/horse-3903)
-
-</div>
+- 🎨 Exploring **Flutter** for cross-platform mobile applications
+- 🔬 Researching advanced **optimization algorithms** for non-convex functions
+- 🤖 Enhancing ML models for **real-time computer vision** applications
 
 ---
 
-## 🤝 Connect With Me
+## 💬 Let’s Connect
 
-<div align="center">
+Whether you’re interested in:
+- 🤝 Collaborating on ML/CV projects
+- 💼 Discussing optimization problems
+- 📚 Sharing knowledge about deep learning
+- 🎓 Open-source contributions
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horse3903410@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/horse-3903)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+**Feel free to reach out!** I’m always excited to work on challenging problems and meet fellow developers.
 
-</div>
+```bash
+# Quick summary
+echo "Rafael Chong - ML Engineer & Full-Stack Developer"
+echo "Location: Singapore 🇸🇬"
+echo "Passion: Making AI practical and efficient"
+echo "Status: Open to collaboration & opportunities"
+```
 
 ---
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=horse-3903&style=for-the-badge&color=00D9FF)
+![Profile Views](https://komarev.com/ghpvc/?username=horse-3903&style=flat-square&color=FF6B9D)
 
-⭐ Feel free to explore my repositories and reach out for collaborations!
+*"Code is like humor. When you have to explain it, it’s bad." – Cory House* 
+
+⭐ Don’t forget to star your favorite projects!
 
 </div>
