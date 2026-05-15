@@ -1,21 +1,138 @@
-<h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A Student and Avid Programmer</h3>
+<!-- Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I’m+Rafael+Chong;Full+Stack+Developer;ML+%26+Computer+Vision+Enthusiast;Based+in+Singapore+🇸🇬" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on [Google Reverse Search API](https://github.com/horse-3903/google-reverse-image-api)
+<br>
 
-- 🌱 I’m currently learning **Flutter App Framework**
+<!-- About Section -->
+## 🚀 About Me
 
-- 📫 How to reach me **horse3903410@gmail.com**
+I’m a passionate developer with expertise in **machine learning**, **computer vision**, and **full-stack development**. I build intelligent systems that solve real-world problems, from drone obstacle detection to music metadata automation. Currently exploring **Flutter** for cross-platform mobile development.
 
-- 🌍 I'm based in **Singapore**
+- 🔬 Specialize in: **Python, ML/CV, C++, JavaScript/TypeScript**
+- 🎯 Currently working on: Advanced computer vision and optimization projects
+- 📚 Learning: **Flutter App Framework**
+- 🌏 Location: **Singapore**
+- 📧 Contact: **horse3903410@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🏆 Featured Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horse-3903&show_icons=true&locale=en&layout=compact&theme=radical" alt="horse-3903" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=horse-3903&show_icons=true&locale=en&theme=radical" alt="horse-3903" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=horse-3903&theme=radical" alt="horse-3903" /></p>
+<div align="center">
+
+### **🤖 Adaptive CV ROI**
+[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/adaptive-cv-roi)
+
+Fast YOLOv11 detection model training & deployment for tracking regions of interest in image processing
+
+---
+
+### **🚁 NTU UAV Research**
+[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/NTU-UAV-Research)
+
+Deep learning-based obstacle detection and avoidance system for DJI Tello drones using depth estimation
+
+---
+
+### **🎵 YTMusicAPI**
+[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/ytmusicapi)
+
+YouTube Music metadata extraction and MP3 file tagging automation
+
+---
+
+### **📅 Timetable Generator**
+[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/timetable-generator)
+
+Intelligent timetable scraper with Google Calendar integration and smart scheduling
+
+---
+
+### **⚡ Fastest Descent Simulation**
+[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/fastest-descent-simulation)
+
+C++ implementation of the fastest descent problem using evolutionary algorithms and optimization techniques
+
+---
+
+### **🧠 ML Non-Convex Optimisation**
+[![Repo](https://img.shields.io/badge/Repository-000?style=for-the-badge&logo=github)](https://github.com/horse-3903/ml-non-convex-optimisation)
+
+Research project on approximating and optimizing non-convex functions using ML and optimization algorithms
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+
+**ML & Data Science:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Computer Vision:**
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**Web & Mobile:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Cloud & Tools:**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horse-3903&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/horse-3903)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=horse-3903&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/horse-3903)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=horse-3903&theme=tokyonight&hide_border=true)](https://github.com/horse-3903)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:horse3903410@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/horse-3903)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=horse-3903&style=for-the-badge&color=00D9FF)
+
+⭐ Feel free to explore my repositories and reach out for collaborations!
+
+</div>
