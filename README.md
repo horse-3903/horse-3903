@@ -76,23 +76,17 @@ exploring = ["Flutter", "Mobile Development", "Advanced optimization"]
 
 ## 📈 By The Numbers
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horse-3903&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/horse-3903)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=horse-3903&layout=compact&theme=dark&hide_border=true)](https://github.com/horse-3903)
-
-</div>
-
 **📊 Quick Stats:**
 - 🎯 31 Public Repositories
 - ⭐ 21 Starred Projects  
 - 🤝 16 Followers
 - 🏆 Pair Extraordinaire | Pull Shark × 2
 
-<a href="https://github.com/horse-3903">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=horse-3903&theme=dark&hide_border=true" />
-</a>
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=horse-3903&theme=dark&hide_border=true)](https://github.com/horse-3903)
+
+</div>
 
 ---
 
