@@ -2,7 +2,7 @@
   
   <!-- Animated Header -->
   <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="35">
     Rafael Chong
   </h1>
   
