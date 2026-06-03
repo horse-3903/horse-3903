@@ -1,129 +1,62 @@
-<div align="center">
-  
-  <!-- Animated Header -->
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35">
-    Rafael Chong
-  </h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Computer+Vision;Building+Intelligent+Systems;Optimizing+Complex+Problems;Making+Drones+Smarter+🚁" alt="Typing SVG" />
-  
-  **From Singapore 🇸🇬 | Training models, solving algorithms, breaking constraints**
-  
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:horse3903410@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/horse-3903)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-  
-</div>
+﻿<div align="center">
 
----
+# Rafael Chong
 
-## 🎯 What I Do
+**AI Researcher · Economics Competitor · CSIT Scholar · Hwa Chong Institution**
 
-I transform **raw data into intelligent decisions** through machine learning and computer vision. My projects span from autonomous drone navigation systems to optimization algorithms that find the fastest descent paths. I’m passionate about:
-
-- 🧠 **Deep Learning**: Building and optimizing neural networks for real-world applications
-- 👁️ **Computer Vision**: Teaching machines to see and understand visual data
-- ⚡ **Optimization**: Solving complex mathematical problems with elegant algorithms
-- 🔌 **Full-Stack Development**: From backend APIs to intuitive frontends
-- 🚀 **Production Systems**: Deploying ML models at scale
-
----
-
-## 🏆 Portfolio Highlights
-
-| Project | Tech | Impact |
-|---------|------|--------|
-| **🚁 NTU UAV Research** | Python • Deep Learning • OpenCV | Real-time obstacle detection for autonomous drones using depth estimation |
-| **🤖 Adaptive CV ROI** | Python • YOLOv11 • PyTorch | Lightning-fast object detection model with automated training pipeline |
-| **🧮 Fastest Descent Simulation** | C++ • Evolutionary Algorithms | Optimized path-finding using genetic algorithms and calculus |
-| **🎵 YTMusicAPI** | JavaScript • Web Scraping | Automated metadata extraction for 1000s of music files |
-| **📅 Timetable Generator** | Python • Web APIs • Google Calendar | Intelligent scheduling system with calendar integration |
-| **🧠 ML Non-Convex Optimization** | Python • TensorFlow • Research | Novel approaches to optimizing non-convex functions |
-
----
-
-## 💡 Technical Toolkit
-
-```python
-# Languages I speak fluently
-languages = {
-    "primary": ["Python", "C++", "JavaScript/TypeScript"],
-    "secondary": ["C#", "HTML/CSS"],
-    "scripting": ["Bash", "PowerShell"]
-}
-
-# ML & AI Arsenal
-ml_stack = {
-    "frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
-    "computer_vision": ["OpenCV", "YOLOv11", "depth estimation"],
-    "data_tools": ["Pandas", "NumPy", "Jupyter"]
-}
-
-# Web & Infrastructure
-web_tech = {
-    "backend": ["Node.js", "Django", "Flask"],
-    "frontend": ["React", "Bootstrap"],
-    "cloud": ["AWS", "Google Cloud", "Firebase"],
-    "databases": ["SQLite", "PostgreSQL"]
-}
-
-# New Horizons
-exploring = ["Flutter", "Mobile Development", "Advanced optimization"]
-```
-
----
-
-## 📈 By The Numbers
-
-**📊 Quick Stats:**
-- 🎯 31 Public Repositories
-- ⭐ 21 Starred Projects  
-- 🤝 16 Followers
-- 🏆 Pair Extraordinaire | Pull Shark × 2
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=horse-3903&theme=dark&hide_border=true)](https://github.com/horse-3903)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chongchoonhourafael@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/choon-hou-rafael-chong)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/horse-3903)
 
 </div>
 
 ---
 
-## 🛠️ Currently Building...
+## About
 
-- 🎨 Exploring **Flutter** for cross-platform mobile applications
-- 🔬 Researching advanced **optimization algorithms** for non-convex functions
-- 🤖 Enhancing ML models for **real-time computer vision** applications
+JC2 student at Hwa Chong Institution with two parallel obsessions: AI & machine learning, and economics & finance.
+
+On the technical side: co-authored a paper on LLM perceptual gaps in CAPTCHA tasks (under peer review, UPenn), built an ML pipeline for automated titration analysis with NTU (presented at SSEF Finals), and won the 2024 National Sentinel Challenge (DIS/MINDEF).
+
+On the economics side: Global Top 10 Finalist at the Global Youth Entrepreneurship Competition (430 teams, 28 countries), champion of the NES Connect 2025 Startathon, and currently competing in the IEO Open Track.
+
+Outside the desk — Overall Captain of Hwa Chong Track & Field (250+ members), 2x National School Games C Division Champion in the 100m and 4x100m relay.
+
+---
+
+## Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
 
 ---
 
-## 💬 Let’s Connect
+## Featured Projects
 
-Whether you’re interested in:
-- 🤝 Collaborating on ML/CV projects
-- 💼 Discussing optimization problems
-- 📚 Sharing knowledge about deep learning
-- 🎓 Open-source contributions
-
-**Feel free to reach out!** I’m always excited to work on challenging problems and meet fellow developers.
-
-```bash
-# Quick summary
-echo "Rafael Chong - ML Engineer & Full-Stack Developer"
-echo "Location: Singapore 🇸🇬"
-echo "Passion: Making AI practical and efficient"
-echo "Status: Open to collaboration & opportunities"
-```
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**google-reverse-image-search-deprecated**](https://github.com/horse-3903/google-reverse-image-search-deprecated) | Early Google reverse image search automation library (archived) | 9 |
+| [**adaptive-cv-roi**](https://github.com/horse-3903/adaptive-cv-roi) | Adaptive region-of-interest detection pipeline with YOLOv11 for fast object detection | 2 |
+| [**NTU-UAV-Research**](https://github.com/horse-3903/NTU-UAV-Research) | Obstacle detection and avoidance on DJI drones using depth estimation — NTU research internship | |
+| [**captcha-llm**](https://github.com/horse-3903/captcha-llm) | Research on LLM perceptual gaps in ASCII art and audio CAPTCHA tasks (under peer review, UPenn) | |
+| [**ml-non-convex-optimisation**](https://github.com/horse-3903/ml-non-convex-optimisation) | ML approaches to approximating and optimising non-convex functions, presented at an international forum | |
+| [**google-reverse-image-api**](https://github.com/horse-3903/google-reverse-image-api) | API wrapper for Google reverse image search | |
 
 ---
+
+## GitHub Stats
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=horse-3903&style=flat-square&color=FF6B9D)
 
-*"Code is like humor. When you have to explain it, it’s bad." – Cory House* 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=horse-3903&show_icons=true&theme=default&hide_border=true)
 
-⭐ Don’t forget to star your favorite projects!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=horse-3903&layout=compact&hide_border=true)
 
 </div>
