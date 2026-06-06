@@ -34,6 +34,7 @@ I transform **raw data into intelligent decisions** through machine learning and
 
 | Project | Tech | Impact |
 |---------|------|--------|
+| **📈 Minsky Market Sim** | Python • NumPy • Pandas • Streamlit • PyTorch | Agent-based RL simulation of Minsky's Financial Instability Hypothesis — endogenous leverage cycles, margin calls, and market crashes |
 | **🚁 NTU UAV Research** | Python • Deep Learning • OpenCV | Real-time obstacle detection for autonomous drones using depth estimation |
 | **🤖 Adaptive CV ROI** | Python • YOLOv11 • PyTorch | Lightning-fast object detection model with automated training pipeline |
 | **🧮 Fastest Descent Simulation** | C++ • Evolutionary Algorithms | Optimized path-finding using genetic algorithms and calculus |
