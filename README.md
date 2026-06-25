@@ -27,6 +27,8 @@ AI researcher and full-stack developer at Hwa Chong Institution (JC). I work at 
 
 ## Stack
 
+<div align="center">
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,6 +49,8 @@ AI researcher and full-stack developer at Hwa Chong Institution (JC). I work at 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
