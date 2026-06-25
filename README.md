@@ -58,14 +58,14 @@ AI researcher and full-stack developer at Hwa Chong Institution (JC). I work at 
 
 <div align="center">
 
-[![minsky-market-sim](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=minsky-market-sim&theme=dark&hide_border=true)](https://github.com/horse-3903/minsky-market-sim)
-[![captcha-llm](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=captcha-llm&theme=dark&hide_border=true)](https://github.com/horse-3903/captcha-llm)
+<a href="https://github.com/horse-3903/minsky-market-sim"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=minsky-market-sim&theme=dark&hide_border=true&description_lines_count=2" /></a>
+<a href="https://github.com/horse-3903/captcha-llm"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=captcha-llm&theme=dark&hide_border=true&description_lines_count=2" /></a>
 
-[![NTU-UAV-Research](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=NTU-UAV-Research&theme=dark&hide_border=true)](https://github.com/horse-3903/NTU-UAV-Research)
-[![phishhook-dev](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=phishhook-dev&theme=dark&hide_border=true)](https://github.com/horse-3903/phishhook-dev)
+<a href="https://github.com/horse-3903/NTU-UAV-Research"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=NTU-UAV-Research&theme=dark&hide_border=true&description_lines_count=2" /></a>
+<a href="https://github.com/PhishHookApp/phishhook-dev"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=PhishHookApp&repo=phishhook-dev&theme=dark&hide_border=true&description_lines_count=2" /></a>
 
-[![calendar-matcher](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=calendar-matcher&theme=dark&hide_border=true)](https://github.com/horse-3903/calendar-matcher)
-[![gpu-watch](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=gpu-watch&theme=dark&hide_border=true)](https://github.com/horse-3903/gpu-watch)
+<a href="https://github.com/horse-3903/calendar-matcher"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=calendar-matcher&theme=dark&hide_border=true&description_lines_count=2" /></a>
+<a href="https://github.com/horse-3903/gpu-watch"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=gpu-watch&theme=dark&hide_border=true&description_lines_count=2" /></a>
 
 </div>
 
