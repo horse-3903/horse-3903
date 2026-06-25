@@ -56,14 +56,18 @@ AI researcher and full-stack developer at Hwa Chong Institution (JC). I work at 
 
 ## Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [minsky-market-sim](https://github.com/horse-3903/minsky-market-sim) | Agent-based RL simulation of Minsky's Financial Instability Hypothesis; endogenous leverage cycles and market crashes | Python, PyTorch, Streamlit |
-| [captcha-llm](https://github.com/horse-3903/captcha-llm) | Novel ASCII art and audio CAPTCHA classes that score 0% against GPT-4o and Gemini; first-author arXiv preprint | Python, LLMs |
-| [NTU-UAV-Research](https://github.com/horse-3903/NTU-UAV-Research) | Real-time obstacle detection and avoidance for autonomous drones using deep learning depth estimation | Python, OpenCV, PyTorch |
-| [phishhook-dev](https://github.com/horse-3903/phishhook-dev) | Chrome extension detecting scam posts on social media using a two-model ML pipeline | Python, JavaScript, NLP |
-| [calendar-matcher](https://github.com/horse-3903/calendar-matcher) | Privacy-preserving group scheduling with Google Calendar API and colour-coded availability overlays | Python, Flask, Tailwind |
-| [gpu-watch](https://github.com/horse-3903/gpu-watch) | Lightweight CLI wrapper for monitoring GPU training jobs with ntfy.sh push notifications | Bash, Python |
+<div align="center">
+
+[![minsky-market-sim](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=minsky-market-sim&theme=dark&hide_border=true)](https://github.com/horse-3903/minsky-market-sim)
+[![captcha-llm](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=captcha-llm&theme=dark&hide_border=true)](https://github.com/horse-3903/captcha-llm)
+
+[![NTU-UAV-Research](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=NTU-UAV-Research&theme=dark&hide_border=true)](https://github.com/horse-3903/NTU-UAV-Research)
+[![phishhook-dev](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=phishhook-dev&theme=dark&hide_border=true)](https://github.com/horse-3903/phishhook-dev)
+
+[![calendar-matcher](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=calendar-matcher&theme=dark&hide_border=true)](https://github.com/horse-3903/calendar-matcher)
+[![gpu-watch](https://github-readme-stats.vercel.app/api/pin/?username=horse-3903&repo=gpu-watch&theme=dark&hide_border=true)](https://github.com/horse-3903/gpu-watch)
+
+</div>
 
 ---
 
